@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer currently working as a full-stack NextJS developer at Etsaw.
+I'm a software engineer currently working as a full-stack NextJS developer at Circl8.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naqeeb-rehman-22b441218) 
 
