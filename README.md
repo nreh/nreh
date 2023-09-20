@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer currently working as a full-stack NextJS developer at Circl8.
+I'm a software engineer currently working as a full-stack developer at Paychex.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naqeeb-rehman-22b441218) 
 
